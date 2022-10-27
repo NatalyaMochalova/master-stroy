@@ -1,3 +1,15 @@
+/* @keyframes fill {
+  to {
+    fill: white;
+  }
+}
+
+@keyframes rotateY {
+  to {
+    transform: rotateY(360deg);
+  }
+} */
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -618,9 +630,36 @@
   border-radius: 30px;
 }
 
+.advantages__cell:hover {
+  background: #E05100;
+}
+
+.advantages__cell:hover .advantages__icon-path {
+  fill: white;
+}
+
+.advantages__cell:hover .advantages__title {
+  color: white;
+  cursor: default;
+}
+
+.advantages__cell:hover .advantages__subtitle {
+  color: white;
+  cursor: default;
+}
+
 .advantages__icon {
   display: block;
   margin: 14px auto 30px;
+}
+
+.advantages__cell:hover .advantages__icon {
+  transition: all .8s;
+  transform: rotateY(360deg);
+}
+
+.advantages__icon-path {
+  transition: all .8s ease;
 }
 
 .advantages__title {
@@ -630,6 +669,7 @@
   line-height: 17px;
   margin: 0 0 15px 28px;
   max-width: 272px;
+  transition: all 1s ease;
 }
 
 .advantages__subtitle {
@@ -639,6 +679,7 @@
   line-height: 17px;
   margin: 0 0 0 28px;
   max-width: 272px;
+  transition: all 1s ease;
 }
 
 /*footer*/
