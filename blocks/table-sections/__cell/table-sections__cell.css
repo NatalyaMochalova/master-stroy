@@ -1,0 +1,13 @@
+.table-sections__cell {
+  width: 240px;
+  height: 264px;
+  -webkit-box-shadow: 4px 4px 20px rgba(0, 0, 0, .25);
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, .25);
+  border-radius: 30px;
+  text-align: center;
+}
+
+.table-sections__cell:hover {
+  -webkit-box-shadow: 4px 4px 20px rgba(224, 81, 0, .4);
+  box-shadow: 4px 4px 20px rgba(224, 81, 0, .4);
+}

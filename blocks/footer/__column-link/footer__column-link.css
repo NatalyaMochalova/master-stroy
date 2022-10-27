@@ -1,0 +1,14 @@
+.footer__column-link {
+  margin: 0 0 15px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: black;
+  display: block;
+}
+
+.footer__column-link:hover {
+  color: #E05100;
+}

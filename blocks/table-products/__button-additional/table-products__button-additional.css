@@ -1,0 +1,17 @@
+.table-products__button-additional {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-image: url(../../../images/table-products__button-additional.svg);
+  width: 69px;
+  height: 56px;
+  -webkit-transition: .2s ease-in-out;
+  -o-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+.table-products__button-additional:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}

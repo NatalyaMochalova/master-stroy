@@ -1,0 +1,19 @@
+.about-production__item {
+  max-width: 324px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 33px;
+  -webkit-transition: .2s ease-in-out;
+  -o-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+.about-production__item:hover {
+  opacity: .6;
+  cursor: default;
+}
+

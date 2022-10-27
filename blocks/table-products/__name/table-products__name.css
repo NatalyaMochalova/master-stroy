@@ -1,0 +1,15 @@
+.table-products__name {
+  margin: 0 0 12px 0;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  -webkit-transition: .2s ease-in-out;
+  -o-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+  cursor: default;
+}
+
+.table-products__name:hover {
+  color: #E05100;
+}

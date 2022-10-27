@@ -1,0 +1,34 @@
+.advantages__cell {
+  width: 330px;
+  height: 323px;
+  background: white;
+  -webkit-box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.advantages__cell:hover {
+  background: #E05100;
+}
+
+.advantages__cell:hover .advantages__icon-path {
+  fill: white;
+}
+
+.advantages__cell:hover .advantages__title {
+  color: white;
+  cursor: default;
+}
+
+.advantages__cell:hover .advantages__subtitle {
+  color: white;
+  cursor: default;
+}
+
+.advantages__cell:hover .advantages__icon {
+  -webkit-transition: all .8s;
+  -o-transition: all .8s;
+  transition: all .8s;
+  -webkit-transform: rotateY(360deg);
+  transform: rotateY(360deg);
+}

@@ -1,0 +1,8 @@
+.nav-menu__item {
+  list-style-type: none;
+  margin-right: 49px;
+}
+
+.nav-menu__item:last-of-type {
+  margin-right: 0;
+}

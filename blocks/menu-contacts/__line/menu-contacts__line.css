@@ -1,0 +1,6 @@
+.menu-contacts__line {
+  width: 0px;
+  height: 45px;
+  border-right: 1px solid white;
+  margin-right: 20px;
+}

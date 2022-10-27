@@ -1,0 +1,8 @@
+.header__subtitle {
+  margin: 0 auto 32px auto;
+  max-width: 745px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: white;
+}

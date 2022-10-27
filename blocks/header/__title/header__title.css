@@ -1,0 +1,10 @@
+.header__title {
+  margin: 0 0 20px 0;
+  padding-top: 135px;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  text-align: center;
+  color: white;
+}

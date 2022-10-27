@@ -1,0 +1,5 @@
+.advantages__icon-path {
+  -webkit-transition: all .8s ease;
+  -o-transition: all .8s ease;
+  transition: all .8s ease;
+}

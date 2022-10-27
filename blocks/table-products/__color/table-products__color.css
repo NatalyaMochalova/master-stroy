@@ -1,0 +1,51 @@
+.table-products__color {
+  width: 14.87px;
+  height: 16px;
+  list-style-type: none;
+  margin-right: 10px;
+  -webkit-transition: .2s ease-in-out;
+  -o-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+.table-products__color:last-of-type {
+  margin-right: 0;
+}
+
+.table-products__color:nth-of-type(1) {
+  background: #737373;
+}
+
+.table-products__color:nth-of-type(2) {
+  background: #9C0909;
+}
+
+.table-products__color:nth-of-type(3) {
+  background: #D48D37;
+}
+
+.table-products__color:nth-of-type(4) {
+  background: #964B00;
+}
+
+.table-products__color:nth-of-type(5) {
+  background: #DC143C;
+}
+
+.table-products__color:nth-of-type(6) {
+  background: #49423D;
+}
+
+.table-products__color:nth-of-type(7) {
+  background: #D77D31;
+}
+
+.table-products__color:nth-of-type(8) {
+  background: black;
+}
+
+.table-products__color:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}

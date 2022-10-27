@@ -1,0 +1,117 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+
+/*logo*/
+@import url(../blocks/logo/_place/logo_place_nav.css);
+@import url(../blocks/logo/_place/logo_place_about-production.css);
+
+/*button*/
+@import url(../blocks/button/button.css);
+
+/*section-title*/
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-title/_position/section-title_position_left.css);
+
+/*table-sections*/
+@import url(../blocks/table-sections/table-sections.css);
+@import url(../blocks/table-sections/__cell/table-sections__cell.css);
+@import url(../blocks/table-sections/__image/table-sections__image.css);
+@import url(../blocks/table-sections/__title/table-sections__title.css);
+
+/*table-products*/
+@import url(../blocks/table-products/table-products.css);
+@import url(../blocks/table-products/__cell/table-products__cell.css);
+@import url(../blocks/table-products/__content/table-products__content.css);
+@import url(../blocks/table-products/__image/table-products__image.css);
+@import url(../blocks/table-products/__name/table-products__name.css);
+@import url(../blocks/table-products/__specification/table-products__specification.css);
+@import url(../blocks/table-products/__colors/table-products__colors.css);
+@import url(../blocks/table-products/__color/table-products__color.css);
+@import url(../blocks/table-products/__content-prices/table-products__content-prices.css);
+@import url(../blocks/table-products/__items/table-products__items.css);
+@import url(../blocks/table-products/__item/table-products__item.css);
+@import url(../blocks/table-products/__color-name/table-products__color-name.css);
+@import url(../blocks/table-products/__price/table-products__price.css);
+@import url(../blocks/table-products/__button-additional/table-products__button-additional.css);
+
+/*menu-contacts*/
+@import url(../blocks/menu-contacts/menu-contacts.css);
+@import url(../blocks/menu-contacts/__items/menu-contacts__items.css);
+@import url(../blocks/menu-contacts/__item/menu-contacts__item.css);
+@import url(../blocks/menu-contacts/__icon/menu-contacts__icon.css);
+@import url(../blocks/menu-contacts/__text/menu-contacts__text.css);
+@import url(../blocks/menu-contacts/__text/_content/menu-contacts__text_content_phone.css);
+@import url(../blocks/menu-contacts/__line/menu-contacts__line.css);
+@import url(../blocks/menu-contacts/__button/menu-contacts__button.css);
+
+/*nav-menu*/
+@import url(../blocks/nav-menu/nav-menu.css);
+@import url(../blocks/nav-menu/__items/nav-menu__items.css);
+@import url(../blocks/nav-menu/__item/nav-menu__item.css);
+@import url(../blocks/nav-menu/__link/nav-menu__link.css);
+
+/*header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__content/header__content.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+
+/*product-catalog*/
+@import url(../blocks/product-catalog/product-catalog.css);
+@import url(../blocks/product-catalog/__table-sections/product-catalog__table-sections.css);
+
+/*about-us*/
+@import url(../blocks/about-us/about-us.css);
+@import url(../blocks/about-us/__image/about-us__image.css);
+@import url(../blocks/about-us/__content/about-us__content.css);
+@import url(../blocks/about-us/__title/about-us__title.css);
+@import url(../blocks/about-us/__text/about-us__text.css);
+
+/*top-products*/
+@import url(../blocks/top-products/top-products.css);
+
+/*about-production*/
+@import url(../blocks/about-production/about-production.css);
+@import url(../blocks/about-production/__content-container/about-production__content-container.css);
+@import url(../blocks/about-production/__content/about-production__content.css);
+@import url(../blocks/about-production/__logo-zone/about-production__logo-zone.css);
+@import url(../blocks/about-production/__items/about-production__items.css);
+@import url(../blocks/about-production/__item/about-production__item.css);
+@import url(../blocks/about-production/__icon/about-production__icon.css);
+@import url(../blocks/about-production/__text/about-production__text.css);
+@import url(../blocks/about-production/__video-iframe/about-production__video-iframe.css);
+
+/*works*/
+@import url(../blocks/works/works.css);
+@import url(../blocks/works/__text/works__text.css);
+@import url(../blocks/works/__gallery-photo/works__gallery-photo.css);
+@import url(../blocks/works/__box/works__box.css);
+@import url(../blocks/works/__photo/works__photo.css);
+@import url(../blocks/works/__overlay/works__overlay.css);
+@import url(../blocks/works/__hint/works__hint.css);
+
+/*advantages*/
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__table/advantages__table.css);
+@import url(../blocks/advantages/__cell/advantages__cell.css);
+@import url(../blocks/advantages/__icon/advantages__icon.css);
+@import url(../blocks/advantages/__icon-path/advantages__icon-path.css);
+@import url(../blocks/advantages/__title/advantages__title.css);
+@import url(../blocks/advantages/__subtitle/advantages__subtitle.css);
+
+/*footer*/
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/_content_/footer__column_content_shop.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer//__column-links/footer__column-links.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__items/footer__items.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__text-box/footer__text-box.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

@@ -1,0 +1,8 @@
+.works__box {
+  position: relative;
+}
+
+.works__box:hover .works__hint {
+  opacity: 1;
+  cursor: default;
+}

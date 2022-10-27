@@ -1,0 +1,11 @@
+.table-products__item {
+  margin-bottom: 24px;
+  -webkit-transition: .2s ease-in-out;
+  -o-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+.table-products__item:hover {
+  opacity: .6;
+  cursor: default;
+}

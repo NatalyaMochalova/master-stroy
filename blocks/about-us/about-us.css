@@ -1,0 +1,7 @@
+.about-us {
+  height: 748px;
+  background: #404040;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}

@@ -1,0 +1,18 @@
+.advantages__table {
+  width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  list-style-type: none;
+  -webkit-column-gap: 29px;
+  -moz-column-gap: 29px;
+  column-gap: 29px;
+  row-gap: 50px;
+  padding: 80px 0 120px 0;
+  margin: 0 auto;
+}

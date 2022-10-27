@@ -1,0 +1,11 @@
+.advantages__title {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 0 15px 28px;
+  max-width: 272px;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
